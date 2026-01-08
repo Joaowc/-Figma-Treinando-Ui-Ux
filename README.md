@@ -1,0 +1,7 @@
+# Figma Treinando Ui / Ux
+
+Projeto simples de treino em UI/UX, feito no Figma, com o objetivo de praticar layouts, cores, tipografia e organização visual.
+Não é um produto final, apenas um espaço para testar ideias e acompanhar meu progresso no design.
+
+
+🔗 [Ui/Ux - Fx](https://www.figma.com/design/PFGMhhMz7jlOUB4OijfqVz/Untitled?node-id=0-1&t=dagPGctzsFRHKxQ6-1)
